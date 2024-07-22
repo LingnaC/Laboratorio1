@@ -26,3 +26,7 @@ fun binary(decimal: Int):
 
 }
 
+
+
+
+
